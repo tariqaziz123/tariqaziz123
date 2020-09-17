@@ -1,5 +1,5 @@
 ### Hi Developers 👋
-[![Linkedin Badge](https://www.linkedin.com/in/tariq-aziz-0b66a216a/)
+[![Linkedin Badge](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BTyT3s%2ByvRxeicO7JZXd2yw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-nav.homepage)](https://www.linkedin.com/in/tariq-aziz-0b66a216a/)
 
 I'm TARIQ AZIZ
 Full Stack Developer
