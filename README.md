@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi Developers 👋
+[![Linkedin Badge](https://www.linkedin.com/in/tariq-aziz-0b66a216a/)
 
-<!--
-**tariqaziz123/tariqaziz123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm TARIQ AZIZ
+Full Stack Developer
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, JAVA), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB,Mysql)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
