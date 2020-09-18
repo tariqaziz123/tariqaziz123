@@ -10,6 +10,6 @@ STUDENT
 
 
 The crossover between design and programming has always been of interest to me
-I have a wide range of skills that include back-end development using open source technologies (NodeJs, JAVA), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB,Mysql)
+I have a wide range of skills that include back-end development using open source technologies (NodeJs, JAVA), front-end development ( ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB,Mysql)
 
 -
