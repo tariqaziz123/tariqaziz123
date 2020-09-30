@@ -14,5 +14,5 @@ I have a wide range of skills that include back-end development using open sourc
 
 ![](https://github.com/tariqaziz123/tariqaziz123/blob/master/Image/Advantages-of-Using-Mern-Stack1.jpg)
 
-[![github-profile-languages](http://i.imgur.com/QG6Gh5I.png)](http://ionicabizau.github.io/github-profile-languages?user=tariqaziz123)
+[![github-profile-languages](http://i.imgur.com/QG6Gh5I.png)](http://tariqaziz.github.io/github-profile-languages?user=tariqaziz123)
 -
