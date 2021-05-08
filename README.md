@@ -18,7 +18,7 @@ I have a wide range of skills that include back-end development using open sourc
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqaziz123&layout=compact&theme=dark)](https://github.com/tariqaziz123/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/tariqaziz123/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dark)](https://github.com/tariqaziz123/github-readme-stats)
 
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=tariqaziz123.tariqaziz123" alt="Visitors">                     
