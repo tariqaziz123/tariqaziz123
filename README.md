@@ -14,12 +14,7 @@ I have a wide range of skills that include back-end development using open sourc
 
 ![](https://github.com/tariqaziz123/tariqaziz123/blob/master/Image/Advantages-of-Using-Mern-Stack1.jpg)
 
-
-<a href="https://github-readme-stats.tariqaziz123.vercel.app/api?username=tariqaziz123&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="tariq's Github Stats" src="https://github-readme-stats.tariqaziz123.vercel.app/api?username=tariqaziz123&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.tariqaziz123.vercel.app/api/top-langs/?username=tariqaziz123&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.tariqaziz123.vercel.app/api/top-langs/?username=tariqaziz123&layout=compact&theme=radical" />
-</a>
+[![Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqaziz123)](https://github.com/tariqaziz123/github-readme-stats)
 
 ---
 
