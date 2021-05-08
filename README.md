@@ -12,9 +12,9 @@ STUDENT
 The crossover between design and programming has always been of interest to me
 I have a wide range of skills that include back-end development using open source technologies (NodeJs, JAVA), front-end development ( ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB,Mysql)
 
-![](https://github.com/tariqaziz123/tariqaziz123/blob/master/Image/Advantages-of-Using-Mern-Stack1.jpg)
 
-![Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqaziz123&count_private=true&show_icons=true)
+
+![Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqaziz123&count_private=true&show_icons=true&theme=radical)
 
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=tariqaziz123.tariqaziz123" alt="Visitors">                     
