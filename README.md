@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-TariqAziz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tariq-aziz-0b66a216a)](https://www.linkedin.com/in/tariq-aziz-0b66a216a)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-TariqAziz-yellow)](https://stackoverflow.com/users/14299818/tariq-aziz)
+[![Website Badge](https://img.shields.io/badge/WebSite-TariqAziz-green)](https://tariqaziz.netlify.app/)
 
 I'm TARIQ AZIZ
 
