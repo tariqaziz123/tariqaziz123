@@ -1,13 +1,26 @@
 <div align="center">
 
-# Hi 👋 I'm Tariq Aziz
+# Hi 👋, I'm Tariq Aziz
 
 ### Senior Frontend Engineer | React.js Developer
 
 Building scalable, high-performance enterprise web applications with modern frontend technologies.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tariq-aziz-b27132288)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tariqaziz123)
+<p>
+  <a href="https://www.linkedin.com/in/tariq-aziz-b27132288">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/tariqaziz123">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:taziz7628@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=tariqaziz123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -15,12 +28,24 @@ Building scalable, high-performance enterprise web applications with modern fron
 
 # 👨‍💻 About Me
 
-- 💼 Senior Frontend Engineer with **4.5+ years of experience**
-- ⚛️ Specialized in **React.js**
-- 🚀 Passionate about building scalable enterprise applications
-- 🌱 Currently learning **Next.js**, **Node.js**, and the **MERN Stack**
-- 💬 Ask me about **React, JavaScript, TypeScript, Redux, React Query, Material UI**
-- 🎯 Looking for Senior Frontend Engineer opportunities
+I'm a **Senior Frontend Engineer** with **4.5+ years of professional experience** building enterprise web applications using **React.js**, **JavaScript**, and modern frontend technologies.
+
+I enjoy solving complex UI problems, building reusable component architectures, optimizing application performance, and creating intuitive user experiences.
+
+Currently, I'm expanding my expertise in **Next.js**, **Node.js**, and the **MERN Stack** while preparing for product-based engineering roles.
+
+---
+
+## 🚀 What I Do
+
+- ⚛️ Build scalable React.js applications
+- 🎨 Develop responsive, accessible, and reusable UI components
+- 🔗 Integrate REST APIs & GraphQL
+- 🔐 Implement JWT & OAuth authentication
+- 📦 State management with Redux Toolkit & React Query
+- 🧪 Write unit tests using Jest & React Testing Library
+- 🚀 Optimize frontend performance
+- 🤝 Mentor junior developers and participate in code reviews
 
 ---
 
@@ -28,41 +53,78 @@ Building scalable, high-performance enterprise web applications with modern fron
 
 ### Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react" height="45"/>
-<img src="https://skillicons.dev/icons?i=js" height="45"/>
-<img src="https://skillicons.dev/icons?i=ts" height="45"/>
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
-<img src="https://skillicons.dev/icons?i=css" height="45"/>
-<img src="https://skillicons.dev/icons?i=redux" height="45"/>
-<img src="https://skillicons.dev/icons?i=materialui" height="45"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,redux,nextjs&perline=7"/>
 </p>
 
----
+> **Note:** Currently learning and building projects with **Next.js**.
 
-### Backend (Learning)
+### Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-<img src="https://skillicons.dev/icons?i=express" height="45"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3"/>
 </p>
 
----
+### UI Libraries
+
+- Material UI
+- React Hook Form
+
+### APIs
+
+- REST APIs
+- GraphQL
+
+### Authentication
+
+- JWT
+- OAuth
+
+### Testing
+
+- Jest
+- React Testing Library
 
 ### Tools
 
-<p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&perline=5"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-<img src="https://skillicons.dev/icons?i=postman" height="45"/>
+---
 
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tariqaziz123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqaziz123&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=tariqaziz123&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tariqaziz123&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tariqaziz123&theme=tokyonight&no-frame=true&margin-w=12"/>
 </p>
 
 ---
@@ -70,35 +132,34 @@ Building scalable, high-performance enterprise web applications with modern fron
 # 💼 Professional Experience
 
 ## Senior Software Engineer
-
 ### Mindpool Technologies (Client: Musafir)
 
-- Built enterprise travel booking modules using React.js.
-- Developed responsive interfaces with Material UI.
+- Developed enterprise travel booking modules using React.js.
+- Built reusable UI components with Material UI.
 - Integrated REST APIs using React Query.
-- Implemented JWT and OAuth authentication.
-- Participated in Agile development, code reviews, and production releases.
+- Implemented JWT & OAuth authentication.
+- Worked in Agile teams with code reviews and sprint planning.
+- Collaborated with cross-functional teams to deliver production features.
 
 ---
 
-## Software Engineer
-
+## Associate Software Engineer → Software Engineer
 ### Data Template Infotech
 
-Worked on multiple enterprise applications including:
+Worked on multiple enterprise applications, including:
 
 - Whiteboard.chat
-- Newcleus
+- Newcleus Wealth Management Platform
 - TechnoPro Capability Radar
 
 Responsibilities:
 
-- Built reusable React components.
-- Integrated REST APIs and GraphQL.
-- Implemented role-based access.
+- Built reusable React.js components.
 - Developed dashboards and reporting modules.
-- Improved frontend performance.
-- Worked closely with designers and backend engineers.
+- Implemented role-based access control.
+- Integrated REST APIs and GraphQL.
+- Improved frontend performance and maintainability.
+- Worked closely with UI/UX designers and backend developers.
 
 ---
 
@@ -112,19 +173,18 @@ Enterprise Wealth Management Platform
 
 - React.js
 - Material UI
-- REST APIs
 - React Hook Form
+- REST APIs
 
 ### Features
 
-- Loan Management
 - Dashboard
+- Loan Management
 - Reports
 - User Management
-- Search
-- Filters
-- Pagination
-- Role-Based Access
+- Search & Filters
+- Server-side Pagination
+- Role-Based Access Control
 
 ---
 
@@ -132,32 +192,35 @@ Enterprise Wealth Management Platform
 
 Enterprise Travel Booking Platform
 
-### Tech Stack
+**Tech Stack**
 
 - React.js
 - Redux Toolkit
-- Material UI
 - React Query
+- Material UI
+- REST APIs
 
-Features
+### Features
 
-- Booking Flow
+- Booking Workflow
 - Authentication
-- Payment Integration
+- API Integration
 - Responsive Design
+- Enterprise UI Components
 
 ---
 
 ## 🎨 Whiteboard.chat
 
-Real-time collaborative whiteboard.
+Real-time collaborative whiteboard application.
 
-Features
+### Features
 
 - WebRTC
 - Screen Sharing
 - File Sharing
-- Canvas Optimization
+- Canvas Rendering Optimization
+- Real-time Collaboration
 
 ---
 
@@ -174,40 +237,51 @@ Features
 # 🌱 Currently Learning
 
 - Next.js
+- Node.js
+- Express.js
+- MongoDB
 - MERN Stack
-- Advanced TypeScript
 - Frontend System Design
+- Advanced TypeScript
 
 ---
 
 # 🎯 2026 Goals
 
-✅ Become a MERN Stack Engineer
-
-✅ Contribute to Open Source
-
-✅ Build SaaS Products
-
-✅ Master Frontend System Design
+- ✅ Become a Full Stack MERN Engineer
+- ✅ Build production-quality SaaS applications
+- ✅ Contribute to Open Source
+- ✅ Strengthen System Design skills
+- ✅ Land a Senior Frontend/Product Company role
 
 ---
 
-# 📫 Connect With Me
+# 🤝 Connect With Me
 
-💼 LinkedIn
+<p align="left">
 
-https://www.linkedin.com/in/tariq-aziz-b27132288
+<a href="https://www.linkedin.com/in/tariq-aziz-b27132288">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-💻 GitHub
+<a href="https://github.com/tariqaziz123">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-https://github.com/tariqaziz123
+<a href="mailto:taziz7628@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+## 💡 "Great software is built with clean code, thoughtful architecture, and continuous learning."
 
-If you like my work, consider giving a ⭐ to my repositories.
+⭐ Thanks for visiting my profile!
+
+If you find my projects helpful, consider giving them a ⭐.
 
 </div>
