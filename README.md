@@ -90,26 +90,7 @@ Currently, I'm expanding my expertise in **Next.js**, **Node.js**, and the **MER
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&perline=5"/>
 </p>
-
 ---
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tariqaziz123&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqaziz123&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=tariqaziz123&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
