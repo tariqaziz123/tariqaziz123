@@ -99,14 +99,6 @@ Currently, I'm expanding my expertise in **Next.js**, **Node.js**, and the **MER
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tariqaziz123&theme=tokyonight&no-frame=true&margin-w=12"/>
-</p>
-
----
-
 # 💼 Professional Experience
 
 ## Senior Software Engineer
