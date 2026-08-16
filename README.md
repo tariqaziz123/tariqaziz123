@@ -2,11 +2,15 @@
 
 # Hi 👋, I'm Tariq Aziz
 
-### Senior Frontend Engineer | React.js Developer
+### Senior Frontend Engineer | React.js | Next.js | TypeScript
 
-Building scalable, high-performance enterprise web applications with modern frontend technologies.
+Building scalable, high-performance web applications and modern user experiences with React, Next.js, TypeScript, and Node.js.
 
 <p>
+  <a href="https://tariq-aziz-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/tariq-aziz-b27132288">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -28,118 +32,235 @@ Building scalable, high-performance enterprise web applications with modern fron
 
 # 👨‍💻 About Me
 
-I'm a **Senior Frontend Engineer** with **4.5+ years of professional experience** building enterprise web applications using **React.js**, **JavaScript**, and modern frontend technologies.
+I'm a **Senior Frontend Engineer** with **4.5+ years of professional experience** building enterprise web applications using **React.js, JavaScript, TypeScript, and modern frontend technologies**.
 
-I enjoy solving complex UI problems, building reusable component architectures, optimizing application performance, and creating intuitive user experiences.
+I specialize in building reusable component architectures, scalable frontend applications, responsive user interfaces, API integrations, and performance-focused web experiences.
 
-Currently, I'm expanding my expertise in **Next.js**, **Node.js**, and the **MERN Stack** while preparing for product-based engineering roles.
+I've worked on enterprise products across **travel technology, financial services, analytics, and real-time collaboration**.
+
+Currently, I'm expanding my full-stack expertise with **Next.js, Node.js, Express.js, and graph databases** while continuing to strengthen my frontend architecture and system design skills.
 
 ---
 
-## 🚀 What I Do
+# 🚀 What I Do
 
-- ⚛️ Build scalable React.js applications
-- 🎨 Develop responsive, accessible, and reusable UI components
-- 🔗 Integrate REST APIs & GraphQL
-- 🔐 Implement JWT & OAuth authentication
-- 📦 State management with Redux Toolkit & React Query
-- 🧪 Write unit tests using Jest & React Testing Library
-- 🚀 Optimize frontend performance
-- 🤝 Mentor junior developers and participate in code reviews
+- ⚛️ Build scalable React.js and Next.js applications
+- 🧩 Design reusable and maintainable UI component architectures
+- 🎨 Develop responsive and accessible user interfaces
+- 🔗 Integrate REST APIs and GraphQL
+- 🔐 Implement JWT and OAuth authentication
+- 📦 Manage application state using Redux Toolkit and React Query
+- 🧪 Write unit tests using Jest and React Testing Library
+- ⚡ Optimize frontend performance and rendering
+- 📊 Build data-driven dashboards and visualizations
+- 🛠️ Develop full-stack applications with Node.js and Express.js
+- 🤝 Participate in code reviews, sprint planning, estimation, and mentoring
 
 ---
 
 # 🛠 Tech Stack
 
-### Frontend
+## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,redux,nextjs&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,redux&perline=7"/>
 </p>
 
-> **Note:** Currently learning and building projects with **Next.js**.
+### Technologies
 
-### Backend
+- React.js
+- Next.js
+- JavaScript ES6+
+- TypeScript
+- HTML5
+- CSS3
+- Redux Toolkit
+- React Query
+- Zustand
+
+---
+
+## Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3"/>
 </p>
 
-### UI Libraries
-
-- Material UI
-- React Hook Form
-
-### APIs
-
+- Node.js
+- Express.js
+- MongoDB
 - REST APIs
 - GraphQL
 
-### Authentication
+---
+
+## Databases & Data
+
+- Neo4j
+- MongoDB
+- Graph-based data modeling
+- CSV data processing
+
+---
+
+## UI & Visualization
+
+- Material UI
+- Ant Design
+- Tailwind CSS
+- Styled Components
+- D3.js
+- Responsive Design
+
+---
+
+## Authentication
 
 - JWT
 - OAuth
 
-### Testing
+---
+
+## Testing
 
 - Jest
 - React Testing Library
+- Mocha
+- Enzyme
 
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&perline=5"/>
-</p>
 ---
-# 📈 Contribution Graph
+
+## Tools
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tariqaziz123&theme=tokyo-night&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,webpack,babel&perline=7"/>
 </p>
 
 ---
 
 # 💼 Professional Experience
 
-## Senior Software Engineer
-### Mindpool Technologies (Client: Musafir)
+## Senior Frontend Engineer
 
-- Developed enterprise travel booking modules using React.js.
-- Built reusable UI components with Material UI.
-- Integrated REST APIs using React Query.
-- Implemented JWT & OAuth authentication.
-- Worked in Agile teams with code reviews and sprint planning.
-- Collaborated with cross-functional teams to deliver production features.
+### Mindpool Technologies — Client: Musafir
+
+**Jan 2026 – Apr 2026**
+
+Worked on an enterprise travel booking and expense management platform.
+
+### Key Contributions
+
+- Developed enterprise travel booking and expense management modules using **React.js and TypeScript**.
+- Built reusable UI components using **Material UI**.
+- Managed application state using **Redux Toolkit**.
+- Integrated REST APIs and asynchronous data workflows.
+- Implemented **JWT and OAuth authentication**.
+- Worked within a large Agile engineering team.
+- Participated in code reviews, sprint planning, story estimation, and technical discussions.
+- Mentored junior developers and contributed to frontend architecture decisions.
+- Improved application performance through optimized rendering and reusable component patterns.
 
 ---
 
 ## Associate Software Engineer → Software Engineer
-### Data Template Infotech
 
-Worked on multiple enterprise applications, including:
+### Data Template Infotech Pvt. Ltd.
+
+**Jul 2021 – Dec 2025**
+
+Worked on multiple enterprise applications across financial services, fintech, analytics, and real-time collaboration.
+
+### Key Contributions
+
+- Built reusable React.js components and enterprise dashboards.
+- Developed responsive interfaces and reporting modules.
+- Integrated REST APIs and GraphQL.
+- Implemented role-based access control.
+- Worked closely with UI/UX designers and backend developers.
+- Improved application performance and maintainability.
+- Participated in Agile development, debugging, testing, and code reviews.
+
+### Projects
 
 - Whiteboard.chat
 - Newcleus Wealth Management Platform
 - TechnoPro Capability Radar
 
-Responsibilities:
-
-- Built reusable React.js components.
-- Developed dashboards and reporting modules.
-- Implemented role-based access control.
-- Integrated REST APIs and GraphQL.
-- Improved frontend performance and maintainability.
-- Worked closely with UI/UX designers and backend developers.
-
 ---
 
 # 🚀 Featured Projects
 
-## 🏦 Newcleus
+## 🧠 SkillGraph AI
 
-Enterprise Wealth Management Platform
+### Full-Stack AI-Powered Developer Skill Graph Platform
 
-**Tech Stack**
+SkillGraph AI is a full-stack platform designed to connect **developers, skills, technologies, companies, and projects** through a graph-based data model.
+
+### Tech Stack
+
+- Next.js
+- React.js
+- TypeScript
+- Node.js
+- Express.js
+- Neo4j
+- Tailwind CSS
+- REST APIs
+
+### Highlights
+
+- Built a modern **Next.js frontend**.
+- Developed backend services using **Node.js and Express.js**.
+- Integrated a **Neo4j-compatible graph database**.
+- Modeled relationships between developers, skills, technologies, companies, and projects.
+- Implemented REST APIs for graph-based data access.
+- Designed reusable frontend components.
+- Deployed frontend and backend independently.
+- Built the project as a full-stack portfolio application.
+
+### Links
+
+🔗 **Live Demo:** https://skillgraph-ai-frontend.onrender.com
+
+🔗 **Backend:** https://skillgraph-ai-8bju.onrender.com/
+
+🔗 **GitHub:** https://github.com/tariqaziz123/SkillGraph-AI
+
+🔗 **Portfolio Case Study:** https://portfolio-nextjs-mocha-theta.vercel.app/projects/skillgraph-ai
+
+---
+
+## ✈️ Musafir
+
+### Enterprise Travel Booking & Expense Platform
+
+Enterprise travel technology platform developed using React.js and modern frontend technologies.
+
+### Tech Stack
+
+- React.js
+- TypeScript
+- Redux Toolkit
+- React Query
+- Material UI
+- REST APIs
+
+### Contributions
+
+- Developed travel booking and expense management modules.
+- Built reusable enterprise UI components.
+- Integrated REST APIs.
+- Implemented authentication workflows.
+- Worked with a cross-functional Agile team.
+- Focused on performance, maintainability, and scalable frontend architecture.
+
+---
+
+## 🏦 Newcleus Wealth Management Platform
+
+Enterprise wealth management application built for financial services workflows.
+
+### Tech Stack
 
 - React.js
 - Material UI
@@ -158,25 +279,25 @@ Enterprise Wealth Management Platform
 
 ---
 
-## ✈️ Musafir
+## 📊 TechnoPro Capability Radar
 
-Enterprise Travel Booking Platform
+Interactive capability and technology visualization platform.
 
-**Tech Stack**
+### Tech Stack
 
 - React.js
-- Redux Toolkit
-- React Query
-- Material UI
-- REST APIs
+- JavaScript
+- D3.js
+- Data Visualization
+- CSV Data
 
-### Features
+### Highlights
 
-- Booking Workflow
-- Authentication
-- API Integration
-- Responsive Design
-- Enterprise UI Components
+- Built interactive data visualizations using D3.js.
+- Integrated CSV-based data.
+- Developed reusable React components.
+- Created responsive and intuitive data-driven interfaces.
+- Focused on visualization performance and usability.
 
 ---
 
@@ -184,51 +305,73 @@ Enterprise Travel Booking Platform
 
 Real-time collaborative whiteboard application.
 
-### Features
+### Highlights
 
+- Real-time collaboration
 - WebRTC
-- Screen Sharing
-- File Sharing
-- Canvas Rendering Optimization
-- Real-time Collaboration
+- Screen sharing
+- File sharing
+- Canvas rendering optimization
+- Interactive whiteboard experience
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tariqaziz123&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 # 📚 Certifications
 
-🏅 Big Data Analytics — CDAC
+🏅 **Big Data Analytics** — C-DAC
 
-🏅 Cyber Forensics — CDAC
+🏅 **Cyber Forensics** — C-DAC
 
-🏅 Full Stack Web Development — Edureka
+🏅 **Full Stack Web Development** — Edureka
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently Exploring
 
-- Next.js
-- Node.js
-- Express.js
-- MongoDB
-- MERN Stack
+- Advanced Next.js
+- Node.js & Express.js
+- Full-Stack Architecture
 - Frontend System Design
 - Advanced TypeScript
+- Scalable Application Architecture
+- Graph-based application development
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Become a Full Stack MERN Engineer
-- ✅ Build production-quality SaaS applications
-- ✅ Contribute to Open Source
-- ✅ Strengthen System Design skills
-- ✅ Land a Senior Frontend/Product Company role
+- 🚀 Build production-quality full-stack applications
+- 🧠 Strengthen frontend and system design expertise
+- 🌐 Contribute to open-source projects
+- ⚡ Build scalable React.js and Next.js applications
+- 📚 Continue expanding full-stack engineering capabilities
+- 💼 Join a strong product-focused engineering team
 
 ---
 
-# 🤝 Connect With Me
+# 🌐 Portfolio
+
+Explore my portfolio, professional experience, projects, and technical case studies:
+
+### 🔗 https://tariq-aziz-portfolio.vercel.app/
+
+---
+
+# 🤝 Let's Connect
 
 <p align="left">
+
+<a href="https://tariq-aziz-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/tariq-aziz-b27132288">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -248,10 +391,8 @@ Real-time collaborative whiteboard application.
 
 <div align="center">
 
-## 💡 "Great software is built with clean code, thoughtful architecture, and continuous learning."
+### 💡 Clean Code • Thoughtful Architecture • Continuous Learning
 
 ⭐ Thanks for visiting my profile!
-
-If you find my projects helpful, consider giving them a ⭐.
 
 </div>
