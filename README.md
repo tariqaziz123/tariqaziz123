@@ -11,7 +11,7 @@ Building scalable, high-performance web applications and modern user experiences
     <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/tariq-aziz-b27132288">
+  <a href="https://www.linkedin.com/in/tariq-aziz-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -373,7 +373,7 @@ Explore my portfolio, professional experience, projects, and technical case stud
 <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/tariq-aziz-b27132288">
+<a href="https://www.linkedin.com/in/tariq-aziz-dev">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
