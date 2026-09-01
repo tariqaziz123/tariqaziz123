@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Tariq Aziz
 
-### Senior Frontend Engineer | React.js | Next.js | TypeScript
+### Senior Frontend Engineer | React.js | Next.js | TypeScript | Micro Frontend
 
 Building scalable, high-performance web applications and modern user experiences with React, Next.js, TypeScript, and Node.js.
 
